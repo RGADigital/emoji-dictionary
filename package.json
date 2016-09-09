@@ -1,5 +1,5 @@
 {
-  "name": "emoji-dictionary",
+  "name": "@rivkesse/emoji-dictionary",
   "version": "1.0.2",
   "description": "Convert emoji names in unicode characters and vice versa.",
   "main": "lib/index.js",
