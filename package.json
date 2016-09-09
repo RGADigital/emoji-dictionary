@@ -13,13 +13,18 @@
     "emoji",
     "dictionary",
     "unicode",
-    "names"
+    "names",
+    "categories"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "contributors": [
+    "Rivkah Tropper <rivkaha@gmail.com>"
+  ],
   "license": "MIT",
   "dependencies": {
     "emoji-chars": "^1.0.0",
     "emoji-name-map": "^1.0.0",
+    "@rivkesse/emoji-category-map": "^1.0.0",
     "emoji-names": "^1.0.1",
     "emoji-unicode-map": "^1.0.0",
     "emojilib": "^2.0.2"
