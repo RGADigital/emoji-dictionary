@@ -8,7 +8,7 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save emoji-dictionary
+$ npm i --save @rivkesse/emoji-dictionary
 ```
 
 
