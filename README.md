@@ -74,6 +74,25 @@ Gets the unicode character by providing the emoji name.
 #### Return
 - **String** The emoji unicode character.
 
+### `getCategory(unicodeChar)`
+Gets the category of the unicode emoji.
+
+#### Params
+- **String** `unicodeChar`: The emoji unicode character.
+
+#### Return
+- **String** The emoji category.
+
+
+### `getEmojiInfo(unicodeChar)`
+Gets the name and category based on the emoji unicode
+
+#### Params
+- **String** `unicodeChar`: The emoji unicode character.
+
+#### Return
+- **Object** Object containing emoji unicode, name and category
+
 
 
 ## :yum: How to contribute
