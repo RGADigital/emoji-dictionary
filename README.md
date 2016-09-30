@@ -25,6 +25,9 @@ console.log(emoji.getName("😍"));
 console.log(emoji.getUnicode("heart_eyes"));
 // 😍
 
+console.log(emoji.getCategory("😍"));
+// people
+
 console.log(emoji.unicode);
 // [ '💯',
 //   '🔢',
